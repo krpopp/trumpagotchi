@@ -1,0 +1,258 @@
+fileFormatVersion: 2
+guid: aca11554b475a413ba57062a4e273a5c
+timeCreated: 1461515369
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: office_0
+    21300002: office_1
+    21300004: office_2
+    21300006: office_3
+    21300008: office_4
+    21300010: office_5
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 300
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: office_0
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 0
+        width: 495
+        height: 700
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -247.5, y: 350}
+        - {x: -247.5, y: -350}
+        - {x: 247.5, y: -350}
+        - {x: 247.5, y: 350}
+    - name: office_1
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 43
+        width: 298
+        height: 642
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 114, y: -292}
+        - {x: 114, y: -273}
+        - {x: 113, y: -272}
+        - {x: 113, y: 120}
+        - {x: 122, y: 120}
+        - {x: 124, y: 119}
+        - {x: 125, y: 120}
+        - {x: 139, y: 119}
+        - {x: 140, y: 120}
+        - {x: 144, y: 120}
+        - {x: 148, y: 123}
+        - {x: 149, y: 123}
+        - {x: 149, y: 130}
+        - {x: 138, y: 130}
+        - {x: 137, y: 129}
+        - {x: 124, y: 129}
+        - {x: 123, y: 130}
+        - {x: 116, y: 130}
+        - {x: 116, y: 161}
+        - {x: 117, y: 162}
+        - {x: 117, y: 210}
+        - {x: 118, y: 211}
+        - {x: 118, y: 316}
+        - {x: 119, y: 317}
+        - {x: 119, y: 319}
+        - {x: 117, y: 321}
+        - {x: -149, y: 321}
+        - {x: -149, y: 131}
+        - {x: -147, y: 130}
+        - {x: -147, y: -149}
+        - {x: -146, y: -150}
+        - {x: -146, y: -293}
+        - {x: -148, y: -295}
+        - {x: -148, y: -296}
+        - {x: -145, y: -300}
+        - {x: -145, y: -316}
+        - {x: -142, y: -320}
+        - {x: -141, y: -321}
+        - {x: 105, y: -321}
+        - {x: 107, y: -320}
+        - {x: 109, y: -315}
+        - {x: 109, y: -297}
+    - name: office_2
+      rect:
+        serializedVersion: 2
+        x: 1007
+        y: 295
+        width: 319
+        height: 319
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 132.5, y: -94.5}
+        - {x: 140.5, y: -80.5}
+        - {x: 155.5, y: -48.5}
+        - {x: 159.5, y: -29.5}
+        - {x: 159.5, y: 28.5}
+        - {x: 157.5, y: 44.5}
+        - {x: 140.5, y: 82.5}
+        - {x: 129.5, y: 98.5}
+        - {x: 99.5, y: 128.5}
+        - {x: 85.5, y: 137.5}
+        - {x: 66.5, y: 148.5}
+        - {x: 38.5, y: 159.5}
+        - {x: -31.5, y: 159.5}
+        - {x: -45.5, y: 156.5}
+        - {x: -62.5, y: 150.5}
+        - {x: -94.5, y: 132.5}
+        - {x: -104.5, y: 123.5}
+        - {x: -128.5, y: 98.5}
+        - {x: -140.5, y: 82.5}
+        - {x: -158.5, y: 41.5}
+        - {x: -159.5, y: 33.5}
+        - {x: -159.5, y: -29.5}
+        - {x: -157.5, y: -41.5}
+        - {x: -143.5, y: -81.5}
+        - {x: -122.5, y: -106.5}
+        - {x: -94.5, y: -132.5}
+        - {x: -64.5, y: -149.5}
+        - {x: -32.5, y: -159.5}
+        - {x: 31.5, y: -159.5}
+        - {x: 54.5, y: -154.5}
+        - {x: 82.5, y: -139.5}
+        - {x: 104.5, y: -124.5}
+    - name: office_3
+      rect:
+        serializedVersion: 2
+        x: 1433
+        y: 336
+        width: 234
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 90, y: -110}
+        - {x: 89, y: -113}
+        - {x: 111, y: -113}
+        - {x: 111, y: -111}
+        - {x: 108, y: -110}
+      - - {x: -3, y: 113}
+        - {x: -4, y: 110}
+        - {x: -3, y: 83}
+        - {x: -2, y: 8}
+        - {x: -117, y: 14}
+        - {x: -117, y: -106}
+        - {x: 113, y: -106}
+        - {x: 117, y: -101}
+        - {x: 117, y: 113}
+    - name: office_4
+      rect:
+        serializedVersion: 2
+        x: 975
+        y: 63
+        width: 384
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 185, y: -54.5}
+        - {x: 184, y: 62.5}
+        - {x: 191, y: 62.5}
+        - {x: 192, y: 63.5}
+        - {x: 192, y: 88.5}
+        - {x: -192, y: 88.5}
+        - {x: -192, y: 59.5}
+        - {x: -184, y: 53.5}
+        - {x: -186, y: -60.5}
+        - {x: -169, y: -69.5}
+        - {x: -159, y: -88.5}
+        - {x: -147, y: -88.5}
+        - {x: -140, y: -87.5}
+        - {x: -139, y: -61.5}
+        - {x: 140, y: -60.5}
+        - {x: 140, y: -69.5}
+        - {x: 142, y: -79.5}
+        - {x: 144, y: -88.5}
+        - {x: 161, y: -88.5}
+        - {x: 164, y: -79.5}
+        - {x: 165, y: -60.5}
+        - {x: 182, y: -61.5}
+    - name: office_5
+      rect:
+        serializedVersion: 2
+        x: 1472
+        y: 43
+        width: 168
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 50, y: -114}
+        - {x: 47, y: -112}
+        - {x: 45, y: 124}
+        - {x: 44, y: 125}
+        - {x: -84, y: 125}
+        - {x: -84, y: -125}
+        - {x: -77, y: -125}
+        - {x: -76, y: -124}
+        - {x: 48, y: -124}
+        - {x: 50, y: -122}
+      - - {x: 81, y: -122}
+        - {x: 83, y: -124}
+        - {x: 84, y: -124}
+        - {x: 84, y: -116}
+        - {x: 81, y: -117}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

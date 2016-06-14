@@ -1,0 +1,116 @@
+fileFormatVersion: 2
+guid: c617049b2fe96442ba2287827d89c1bd
+timeCreated: 1464648006
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: moreUI_0
+    21300002: moreUI_1
+    21300004: moreUI_2
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 160
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: moreUI_0
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 166
+        width: 50
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: 23}
+        - {x: -19, y: 22}
+        - {x: -25, y: 17}
+        - {x: -25, y: -19}
+        - {x: -20, y: -23}
+        - {x: 21, y: -23}
+        - {x: 25, y: -22}
+        - {x: 25, y: 10}
+        - {x: 12, y: 23}
+    - name: moreUI_1
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 150
+        width: 148
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -70, y: 39.5}
+        - {x: -74, y: 36.5}
+        - {x: -74, y: -39.5}
+        - {x: 74, y: -39.5}
+        - {x: 74, y: 34.5}
+        - {x: 72, y: 39.5}
+    - name: moreUI_2
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 40
+        width: 85
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -40.5, y: 41}
+        - {x: -42.5, y: 33}
+        - {x: -42.5, y: -31}
+        - {x: -33.5, y: -41}
+        - {x: 37.5, y: -41}
+        - {x: 42.5, y: -37}
+        - {x: 42.5, y: 28}
+        - {x: 38.5, y: 41}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
